@@ -1,2 +1,2 @@
 # Twitter-Bot-Using_python-and-TweePy
-A twitter bot that tweets motivational quotes.
+Quotes Quota --> A twitter bot that tweets motivational quotes.   Twitter.com/quota_quotes
